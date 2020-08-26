@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Associate Professor of Computer Science at Drexel University. I graduated with a Ph.D. in 2013 from the IDEA Lab at Lehigh University supervised by Dr. Xiaolei Huang. My current research interests are image processing, computer vision, sparse coding, neuromorphic computing, computer game design and development, computer graphics, and high performance computing. I recieved an NSF CAREER award in 2019. Look below to see some of the major projects I am working on, or you can...
+I am currently an Associate Professor of Computer Science at Drexel University. I graduated with a Ph.D. in 2013 from the IDEA Lab at Lehigh University supervised by [Dr. Sharon Xiaolei Huang](https://faculty.ist.psu.edu/suh972/). My current research interests are computer vision, sparse coding, neuromorphic computing, and multimodal machine learning.  I recieved an NSF CAREER award in 2019. Look below to see some of the major projects I am working on, or you can...
 
 Recent News
 ======
