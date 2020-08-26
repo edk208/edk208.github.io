@@ -11,9 +11,13 @@ I am currently an Associate Professor of Computer Science at Drexel University. 
 
 Recent News
 ======
-September 2019 - I've joined Drexel University as an Associate Professor of Computer Science!
-April 2019 - My presentation at NICE 2019 has been posted. See it in the portfolio section.
-February 2019 - I was awarded an NSF CAREER award for work in neuro-inspired machine learning!
+**May 2020** - Our paper, Learning Spiking Neural Network Models of Drosophila Olfaction, was accepted at ICONS 2020. 
+**February 2020** - Our paper, Modeling Biological Immunity to Adversarial Examples, was accepted at CVPR 2020.
+**February 2020** - I'll be the Co-Chair of Computer Vision at ISVC 2020.
+**January 2020** - I'll be teaching the grad CS 613 Machine Learning class.  Looking forward to it!
+**September 2019** - I've joined Drexel University as an Associate Professor of Computer Science!
+**April 2019** - My presentation at NICE 2019 has been posted. See it in the portfolio section.
+**February 2019** - I was awarded an NSF CAREER award for work in neuro-inspired machine learning!
 
 Getting started
 ======
