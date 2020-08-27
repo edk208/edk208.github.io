@@ -30,6 +30,7 @@ I run the **SP**iking **A**nd **R**ecurrent **S**oftwar**E** Coding Lab @ Drexel
 This lab is inspired by breakthroughs in computational and theoretical neuroscience that incorporate ideas not explored by current feed-forward deep learning architectures.
 
 You can visit my lab page [here](http://www.pages.drexel.edu/~ek826/sparselab/)
+
 Contact
 ======
 You can contact me via email edward(dot)kim826(at)drexel(dot)edu
