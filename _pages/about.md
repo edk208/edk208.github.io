@@ -7,15 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Associate Professor of Computer Science at Drexel University. I graduated with a Ph.D. in 2013 from the IDEA Lab at Lehigh University supervised by [Dr. Sharon Xiaolei Huang](https://faculty.ist.psu.edu/suh972/). My current research interests are computer vision, sparse coding, neuromorphic computing, and multimodal machine learning.  I recieved an NSF CAREER award in 2019. Look below to see some of the major projects I am working on, or you can...
+I am currently an Associate Professor of Computer Science at Drexel University. I graduated with a Ph.D. in 2013 from the IDEA Lab supervised by [Dr. Sharon Xiaolei Huang](https://faculty.ist.psu.edu/suh972/). My current research interests are computer vision, sparse coding, neuromorphic computing, and multimodal machine learning.  I recieved an NSF CAREER award in 2019. Look below to see some of the major projects I am working on, or you can...
 
 Recent News
 ======
+**September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
+**August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate racial bias in machine learning!  
+**June 2020** - The Bill and Melinda Gates foundation funded our COVID-19 digital platform proposal!  
 **May 2020** - Our paper, Learning Spiking Neural Network Models of Drosophila Olfaction, was accepted at ICONS 2020.  
 **February 2020** - Our paper, Modeling Biological Immunity to Adversarial Examples, was accepted at CVPR 2020.  
 **February 2020** - I'll be the Co-Chair of Computer Vision at ISVC 2020.  
-**January 2020** - I'll be teaching the grad CS 613 Machine Learning class.  Looking forward to it!  
-**September 2019** - I've joined Drexel University as an Associate Professor of Computer Science!  
+**January 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Winter Term.  
+**September 2019** - I've joined Drexel University as an Associate Professor of Computer Science! Jocelyn Rego will be joining the SPARSE Lab as a PhD student! 
 **April 2019** - My presentation at NICE 2019 has been posted. See it in the portfolio section.  
 **February 2019** - I was awarded an NSF CAREER award for work in neuro-inspired machine learning!  
 
