@@ -12,7 +12,7 @@ I am currently an Associate Professor of Computer Science at Drexel University. 
 Recent News
 ======
 :    **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
-:    **September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
+**September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
 **August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate racial bias in machine learning!  
 **August 2020** - I'll be a Provost Fellow for the Drexel Solutions Institute 2020-2022.  
 **June 2020** - The Bill and Melinda Gates foundation funded our COVID-19 digital platform proposal!  
@@ -29,7 +29,7 @@ Academic Lab
 I run the SPARSE (**SP**iking **A**nd **R**ecurrent **S**oftwar**E**) Coding Lab @ Drexel University.
 This lab is inspired by breakthroughs in computational and theoretical neuroscience that incorporate ideas not explored by current feed-forward deep learning architectures.
 
-You can visit my lab page [here](http://www.pages.drexel.edu/~ek826/sparselab/)
+You can visit my lab page {.btn}[here](http://www.pages.drexel.edu/~ek826/sparselab/)
 
 Contact
 ======
