@@ -30,7 +30,7 @@ Academic Lab
 I run the SPARSE (**SP**iking **A**nd **R**ecurrent **S**oftwar**E**) Coding Lab @ Drexel University.
 This lab is inspired by breakthroughs in computational and theoretical neuroscience that incorporate ideas not explored by current feed-forward deep learning architectures.
 
-You can visit my lab page {:.btn}[here](http://www.pages.drexel.edu/~ek826/sparselab/)
+You can visit my lab page [here](http://www.pages.drexel.edu/~ek826/sparselab/){:.btn}
 
 Contact
 ======
