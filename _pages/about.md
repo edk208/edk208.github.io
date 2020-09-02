@@ -10,6 +10,8 @@ redirect_from:
 I am currently an Associate Professor of Computer Science at Drexel University. I graduated with a Ph.D. in 2013 from the IDEA Lab supervised by [Dr. Sharon Xiaolei Huang](https://faculty.ist.psu.edu/suh972/). My current research interests are computer vision, sparse coding, neuromorphic computing, and multimodal machine learning.  I recieved an NSF CAREER award in 2019. 
 
 Recent News
+======
+2020-2021
 :    **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
 **September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
 **August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate racial bias in machine learning!  
