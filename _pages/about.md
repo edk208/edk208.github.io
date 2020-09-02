@@ -11,8 +11,8 @@ I am currently an Associate Professor of Computer Science at Drexel University. 
 
 Recent News
 ======
-**September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
-**September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
+:    **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
+:    **September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
 **August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate racial bias in machine learning!  
 **August 2020** - I'll be a Provost Fellow for the Drexel Solutions Institute 2020-2022.  
 **June 2020** - The Bill and Melinda Gates foundation funded our COVID-19 digital platform proposal!  
@@ -20,7 +20,7 @@ Recent News
 **February 2020** - Our paper, Modeling Biological Immunity to Adversarial Examples, was accepted at CVPR 2020.  
 **February 2020** - I'll be the Co-Chair of Computer Vision at ISVC 2020.  
 **January 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Winter Term.  
-**September 2019** - I've joined Drexel University as an Associate Professor of Computer Science! Jocelyn Rego will be joining the SPARSE Lab as a PhD student! 
+**September 2019** - I've joined Drexel University as an Associate Professor of Computer Science! Jocelyn Rego will be joining the SPARSE Lab as a PhD student!  
 **April 2019** - My presentation at NICE 2019 has been posted. See it in the portfolio section.  
 **February 2019** - I was awarded an NSF CAREER award for work in neuro-inspired machine learning!  
 
