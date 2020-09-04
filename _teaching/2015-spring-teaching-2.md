@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
+<video id="ML" src="files/cs383.mp4" width="100%" preload="none" poster="img/spieimg.png" controls=""></video>
 
 Heading 1
 ======
