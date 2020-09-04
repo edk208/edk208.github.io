@@ -1,5 +1,5 @@
 ---
-title: "CS 383 Machine Learning"
+title: "CS 383/613 Machine Learning"
 collection: teaching
 type: "Class"
 permalink: /teaching/2020-spring-teaching
