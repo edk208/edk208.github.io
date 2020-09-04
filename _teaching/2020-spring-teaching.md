@@ -1,21 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "CS 383 Machine Learning"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Class"
+permalink: /teaching/2020-spring-teaching
+venue: "Drexel University, Computer Science Department"
+date: 2020-01-01
+location: "Philadelphia, USA"
 ---
+This course covers the fundamentals of modern statistical machine learning. Lectures will cover fundamental aspects of machine learning, including dimensionality reduction, overfitting, ensemble learning, and evaluation techniques, as well as the theoretical foundation and algorithmic details of representative topics within clustering, regression, and classification (for example, K-Means clustering, Support Vector Machines, Decision Trees, Linear and Logistic Regression, Neural Networks, among others). Students will be expected to perform theoretical derivations and computations, and to be able to implement algorithms from scratch. 
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
+Short video on, What is Machine Learning?
+======
 <video id="ML" src="http://edk208.github.io/files/cs383.mp4" width="540px" poster="http://edk208.github.io/images/csc383.jpg" preload="none"  controls=""></video>
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
