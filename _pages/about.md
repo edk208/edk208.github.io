@@ -19,6 +19,7 @@ Recent News
 **June 2020** - The Bill and Melinda Gates foundation funded our COVID-19 digital platform proposal!  
 **May 2020** - Our paper, Learning Spiking Neural Network Models of Drosophila Olfaction, was accepted at ICONS 2020.  
 **February 2020** - Our paper, [Modeling Biological Immunity to Adversarial Examples](https://edk208.github.io/publication/2020-06-01-modeling-bio), was accepted at CVPR 2020.  
+**February 2020** - Our paper, [Using Sinusoidally-Modulated Noise as a Surrogate for Slow-Wave Sleep to Accomplish Stable Unsupervised Dictionary Learning in a Spike-Based Sparse Coding Models](https://edk208.github.io/publication/2020-05-01-slow-wave), was accepted at CVPR-W 2020.  
 **February 2020** - I'll be the Co-Chair of Computer Vision at [ISVC 2020](https://www.isvc.net/).  
 **January 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Winter Term.  
 **September 2019** - I've joined Drexel University as an Associate Professor of Computer Science! Jocelyn Rego will be joining the SPARSE Lab as a PhD student!  
