@@ -29,6 +29,19 @@ Work experience
   * Naval Research Laboratory 
   * Visiting Faculty in the Navy Center for Applied Research in AI sponsored by the Office of Naval Research. Conduct research in Artificial Intelligence, Robotics, and Sparse Coding.
  
+* 2018: Visiting Scholar of Computer Science 
+  * University of Delaware
+  * Visiting Scholar in the Department of Computer and Information Sciences. Con- ducted research in Multimodal Deep Learning for Accessibility.
+
+* 2017: Visiting Faculty Scholar  
+  * Los Alamos National Laboratory
+  * Visiting Faculty Program sponsored by the Department of Energy Office of Science. Conduct research in Biologically Inspired Neural Networks.
+
+* 2012-2014: Assistant Professor of Computer Science  
+  * The College of New Jersey
+  * Tenure-Track Assistant Professor of Computer Science and Interactive Multimedia Joint appointment in Computer Science and Interactive Multimedia. Conduct research in the area of Computer Vision, Computer Graphics, Artificial Intelligence, and Game Technology.
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
