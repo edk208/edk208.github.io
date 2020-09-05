@@ -57,10 +57,10 @@ Recent Teaching
 
 Grant Funding
 ======
-“The Bias in the Machine.” Drexel University Office of Research & Innovation. PI, $5,000, 8/7/2020.
-“COVID-19: Digital Platform for Patient Recruitment, Testing, Prediction.” Bill & Melinda Gates Foundation. Key Personnel, $496,783, 6/26/2020.
-“REU Supplement on NSF CAREER Award.” National Science Foundation. PI, $7,900, 9/1/2020.
-“Development of an Automated and Scalable Virtual Assistant to Aid in PPE Ad- herence and Clinical Protocols for Healthcare Worker Safety.” MSH-UHN AMO Innovation Fund. Co-PI, $46,962, 4/17/2020.
+* “The Bias in the Machine.” Drexel University Office of Research & Innovation. PI, $5,000, 8/7/2020.  
+* “COVID-19: Digital Platform for Patient Recruitment, Testing, Prediction.” Bill & Melinda Gates Foundation. Key Personnel, $496,783, 6/26/2020.  
+* “REU Supplement on NSF CAREER Award.” National Science Foundation. PI, $7,900, 9/1/2020.  
+* “Development of an Automated and Scalable Virtual Assistant to Aid in PPE Ad- herence and Clinical Protocols for Healthcare Worker Safety.” MSH-UHN AMO Innovation Fund. Co-PI, $46,962, 4/17/2020.  
 “CAREER: Sparse Associative Deep Learning using Neural Mimicry in Multi- modal Machine Learning.” National Science Foundation NSF CAREER Award. PI, $494,464, 6/1/2019.
 “Hierarchical Sparse Coding for Robustness against Adversarial Attack.” Intel Cor- poration. PI, $33,566, 9/1/2018.
  Awards
