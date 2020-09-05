@@ -37,7 +37,7 @@ Work experience
 
 * 2008-2013: IDEA Lab Research Assistant, Lehigh University
 
-Publications
+Recent Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -49,7 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Recent Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -57,7 +57,20 @@ Teaching
 
 Grant Funding
 ======
+“The Bias in the Machine.” Drexel University Office of Research & Innovation. PI, $5,000, 8/7/2020.
+“COVID-19: Digital Platform for Patient Recruitment, Testing, Prediction.” Bill & Melinda Gates Foundation. Key Personnel, $496,783, 6/26/2020.
+“REU Supplement on NSF CAREER Award.” National Science Foundation. PI, $7,900, 9/1/2020.
+“Development of an Automated and Scalable Virtual Assistant to Aid in PPE Ad- herence and Clinical Protocols for Healthcare Worker Safety.” MSH-UHN AMO Innovation Fund. Co-PI, $46,962, 4/17/2020.
+“CAREER: Sparse Associative Deep Learning using Neural Mimicry in Multi- modal Machine Learning.” National Science Foundation NSF CAREER Award. PI, $494,464, 6/1/2019.
+“Hierarchical Sparse Coding for Robustness against Adversarial Attack.” Intel Cor- poration. PI, $33,566, 9/1/2018.
+ Awards
+“Virtual Reality Simulation for Teaching and Evaluation of Medication Safety Ad- ministration.” Pennsylvania Higher Education Nursing Schools Association. Co- PI, $2,500, 9/1/2018.
+“Digital Pathology Annotation Data for Improved Deep Neural Network Classifi- cation.” University Summer Grants Program. Villanova University. PI, $12,488, 2/1/2016.
+“Deep Learning for General Video Emotion Classification.” Amazon Research Ed- ucation Grant. Amazon. PI, $6,000, 12/14/2015.
+“Virtual simulation for assessment of anesthesia intraoperative crises.” Royal Col- lege Assessment with the Context of Competency-based Education, Royal College of Physicians and Surgeons of Canada. Co-PI, $22,936.85 11/1/2015.
+“wHealth - A Window to your future Health.” Robert Wood Johnson Foundation and Health 2.0. Games To Generate Data Challenge. Phase II award. Co-PI, $100,000, 10/1/2013.
+“A window to hospital pricing.” Robert Wood Johnson Foundation and Health 2.0. Hospital Price Transparency Challenge. Static visualization 2nd place award. Co-PI, $3,500, 10/1/2013.
+“Advancement of Mobile Game Education and Development.” Supported by world renowned artist Faith Ringgold. Co-PI, $7,467.26, 9/1/2013.
+“wHealth - A Window to your future Health.” Robert Wood Johnson Founda- tion and Health 2.0. Games To Generate Data Challenge. Phase I award. Co-PI, $5,000, 3/11/2013.
+“Web-based Image Annotation and Retrieval: Computer-assisted Technologies for Medical Image Segmentation and Pattern Recognition”. National Institutes of Health, National Library of Medicine, Sub-award from Lehigh University, PI, $30,000, 10/01/2012 - 8/31/2013.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
