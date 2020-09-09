@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be found here [PDF](https://edk208.github.io/files/edwardkimCV2020.pdf)
+
 Education
 ======
 * B.S.E. in Computer Science,  University of Pennsylvania, 2003
