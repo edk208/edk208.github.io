@@ -67,11 +67,3 @@ Recent Grant Funding
 * “Hierarchical Sparse Coding for Robustness against Adversarial Attack.” Intel Corporation. PI, $33,566, 9/1/2018.  
  Awards  
 
-<!--  * “Virtual Reality Simulation for Teaching and Evaluation of Medication Safety Administration.” Pennsylvania Higher Education Nursing Schools Association. Co- PI, $2,500, 9/1/2018.  
-* “Digital Pathology Annotation Data for Improved Deep Neural Network Classification.” University Summer Grants Program. Villanova University. PI, $12,488, 2/1/2016.  
-* “Deep Learning for General Video Emotion Classification.” Amazon Research Education Grant. Amazon. PI, $6,000, 12/14/2015.  
-* “Virtual simulation for assessment of anesthesia intraoperative crises.” Royal College Assessment with the Context of Competency-based Education, Royal College of Physicians and Surgeons of Canada. Co-PI, $22,936.85 11/1/2015.  
-* “wHealth - A Window to your future Health.” Robert Wood Johnson Foundation and Health 2.0. Games To Generate Data Challenge. Phase II award. Co-PI, $100,000, 10/1/2013.  
-* “A window to hospital pricing.” Robert Wood Johnson Foundation and Health 2.0. Hospital Price Transparency Challenge. Static visualization 2nd place award. Co-PI, $3,500, 10/1/2013.  
-* “Web-based Image Annotation and Retrieval: Computer-assisted Technologies for Medical Image Segmentation and Pattern Recognition”. National Institutes of Health, National Library of Medicine, Sub-award from Lehigh University, PI, $30,000, 10/01/2012 - 8/31/2013.  
-  -->
