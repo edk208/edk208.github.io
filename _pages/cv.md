@@ -66,7 +66,7 @@ Recent Grant Funding
 * “CAREER: Sparse Associative Deep Learning using Neural Mimicry in Multi- modal Machine Learning.” National Science Foundation NSF CAREER Award. PI, $494,464, 6/1/2019.  
 * “Hierarchical Sparse Coding for Robustness against Adversarial Attack.” Intel Corporation. PI, $33,566, 9/1/2018.  
  Awards
-<!-- * “Virtual Reality Simulation for Teaching and Evaluation of Medication Safety Administration.” Pennsylvania Higher Education Nursing Schools Association. Co- PI, $2,500, 9/1/2018.  
+<!--  * “Virtual Reality Simulation for Teaching and Evaluation of Medication Safety Administration.” Pennsylvania Higher Education Nursing Schools Association. Co- PI, $2,500, 9/1/2018.  
 * “Digital Pathology Annotation Data for Improved Deep Neural Network Classification.” University Summer Grants Program. Villanova University. PI, $12,488, 2/1/2016.  
 * “Deep Learning for General Video Emotion Classification.” Amazon Research Education Grant. Amazon. PI, $6,000, 12/14/2015.  
 * “Virtual simulation for assessment of anesthesia intraoperative crises.” Royal College Assessment with the Context of Competency-based Education, Royal College of Physicians and Surgeons of Canada. Co-PI, $22,936.85 11/1/2015.  
