@@ -15,7 +15,7 @@ Recent News
 :    **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
 **September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
 **August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate [racial bias in machine learning](https://drexel.edu/cci/stories/cci-project-to-mitigate-bias-in-ai-and-machine-learning-wins-racial-equity-award/)!  
-**August 2020** - I'll be a Provost Fellow for the [Drexel Solutions Institute](https://www.isvc.net/) 2020-2022.  
+**August 2020** - I'll be a Provost Fellow for the [Drexel Solutions Institute](https://drexel.edu/solutions-institute/) 2020-2022.  
 **June 2020** - The Bill and Melinda Gates foundation funded our COVID-19 digital platform proposal!  
 **May 2020** - Our paper, Learning Spiking Neural Network Models of Drosophila Olfaction, was accepted at ICONS 2020.  
 **February 2020** - Our paper, [Modeling Biological Immunity to Adversarial Examples](https://edk208.github.io/publication/2020-06-01-modeling-bio), was accepted at CVPR 2020.  
