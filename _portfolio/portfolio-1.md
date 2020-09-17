@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vinereactor"
+excerpt: "We are researching novel ways to use computer vision, crowdsourcing, and deep learning algorithms to teach machines to interact with humans, improve affect recognition, and perform general-purpose video emotion classification.<br/><img src='/images/vineshot.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Although machines are more pervasive in our everyday lives, we are still forced to interact with them through limited communication channels. Our overarching goal is to support new and complex interactions by teaching the computer to interpret the expressions of the user. Towards this goal, we present Vinereactor, a new labeled database for face analysis and affect recognition. Our dataset is one of the first to explore human expression recognition in response to a stimulus video, enabling a new facet of affect analysis research. Furthermore, our dataset is the largest of its kind, nearly a magnitude larger than its closest related work.
+Learn more at [vinereactor.org](http://vinereactor.org)
