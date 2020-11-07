@@ -14,7 +14,7 @@ Recent News
 2020-2021
 :    **October 2020** - Our paper, [Information Graphic Summarization using a Collection of Multimodal Deep Neural Networks](http://edwardkim.net/files/ICPR2020.pdf) was accepted at ICPR 2020.   
 **September 2020** - Our paper, [Regularization and Sparsity for Adversarial Robustness and Stable Attribution
-](http://edwardkim.net/files/Regularization_ISVC2020.pdf) was accepted for oral presentation at ISVC 2020.
+](http://edwardkim.net/files/Regularization_ISVC2020.pdf) was accepted for oral presentation at ISVC 2020.   
 **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
 **September 2020** - Welcome Maryam Daniali, Daniel Schwartz, Andrew O'Brien, and Nicki Barari to the SPARSE Lab!   
 **August 2020** - We were funded by the Drexel's Rapid Response Research Fund for a project to investigate [racial bias in machine learning](https://drexel.edu/cci/stories/cci-project-to-mitigate-bias-in-ai-and-machine-learning-wins-racial-equity-award/)!  
