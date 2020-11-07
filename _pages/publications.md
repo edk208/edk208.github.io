@@ -6,6 +6,10 @@ author_profile: true
 ---
 Conference Publications
 ======
+E.Kim, C. Onweller, K. McCoy, "Information Graphic Summarization using a Collection of Multimodal Deep Neural Networks", In International Conference on Pattern Recognition, ICPR, 2020 [PDF](http://edwardkim.net/files/ICPR2020.pdf) 
+
+D. Schwartz, Y. Alparslan, E. Kim, "Regularization and Sparsity for Adversarial Robustness and Stable Attribution", In the International Symposium on Visual Computing, ISVC 2020 [PDF](http://edwardkim.net/files/Regularization_ISVC2020.pdf) 
+
 J. Carter, J. Rego, D. Schwartz, V. Bhandawat, and E. Kim. ”Learning Spiking Neural Network Models of Drosophila Olfaction.” In International Conference on Neuromorphic Systems, ICONS pp. 1-5. 2020 [PDF](http://edwardkim.net/files/icons2020-17.pdf).
 
 E.Kim, J. Rego, Y. Watkins, G. Kenyon, “Modeling Biological Immunity to Adversarial Examples”, In IEEE Computer Society Conf. Computer Vision and Pattern Recognition, CVPR 2020 [PDF](http://edwardkim.net/files/07828.pdf)
@@ -38,7 +42,7 @@ T.Xu, E.Kim, and X.Huang, “Adjustable AdaBoost Classifier and Pyramid Features
 
 E.Kim, Z.Baloch, C.Kim, “Computer Assisted Detection and Analysis of Tall Cell Variant Papillary Thyroid Carcinoma in Histological Images”, In SPIE Medical Imaging 2015: Digital Pathology, 2015 [PDF](http://edwardkim.net/files/edkimspie2015.pdf)
 
-T.Xu, X.Huang, E.Kim, L. Rodney Long, S.Antani, “Multi-test Cervical Cancer Diagnosis with Missing Data Estimation”, In SPIE Medical Imaging 2015: Com- puter Aided Diagnosis, 2015 [PDF](http://edwardkim.net/files/9414-32_Manuscript.pdf).
+T.Xu, X.Huang, E.Kim, L. Rodney Long, S.Antani, “Multi-test Cervical Cancer Diagnosis with Missing Data Estimation”, In SPIE Medical Imaging 2015: Computer Aided Diagnosis, 2015 [PDF](http://edwardkim.net/files/9414-32_Manuscript.pdf).
 
 S.Bouloutian and E.Kim, “Artificial Intelligence Gaming Assistant for Google Glass”, In International Symposium on Visual Computing, ISVC, 2014 [PDF](http://edwardkim.net/files/isvc2014.pdf).
 
