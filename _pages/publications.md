@@ -6,7 +6,7 @@ author_profile: true
 ---
 All Publications
 ======
-E.Kim, J.Yarnall, P.Shah, G.Kenyon, "A Neuromorphic Sparse Coding Defense to Adversarial Images", International Conference on Neuromorphic Systems, ICONS, 2019.
+E.Kim, J.Yarnall, P.Shah, G.Kenyon, "A Neuromorphic Sparse Coding Defense to Adversarial Images", International Conference on Neuromorphic Systems, ICONS, 2019 [PDF](http://edwardkim.net/files/sparsecodingdefense.pdf).
 
 E.Kim, E.Lawson, K.Sullivan, G.Kenyon, "Spatiotemporal Sequence Memory for Prediction using Deep Sparse Coding", Neuro-inspired Computational Elements Workshop, NICE, 2019
 
