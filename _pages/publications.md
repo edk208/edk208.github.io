@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-All Publications
+Conference Publications
 ======
 J. Carter, J. Rego, D. Schwartz, V. Bhandawat, and E. Kim. ”Learning Spiking Neural Network Models of Drosophila Olfaction.” In International Conference on Neuromorphic Systems, ICONS pp. 1-5. 2020 [PDF](http://edwardkim.net/files/icons2020-17.pdf).
 
@@ -35,6 +35,45 @@ E.Kim, S. Vangala,“Vinereactor: Crowdsourced Spontaneous Facial Expression Dat
 E.Kim, M. Corte-Real, Z.Baloch,“A Deep Semantic Mobile Application for Thyroid Cytopathololgy”, In SPIE Medical Imaging 2016: Advanced-PACS-based Imaging Informatics and Therapeutic Applications, 2016 [PDF](http://edwardkim.net/files/fullpaper2016.pdf).
 
 T.Xu, E.Kim, and X.Huang, “Adjustable AdaBoost Classifier and Pyramid Features for Image-based Cervical Cancer Diagnosis”, In International Symposium on Biomedical Imaging, ISBI 2015 [PDF](http://edwardkim.net/files/ISBImanuscript.pdf).
+
+E.Kim, Z.Baloch, C.Kim, “Computer Assisted Detection and Analysis of Tall Cell Variant Papillary Thyroid Carcinoma in Histological Images”, In SPIE Medical Imaging 2015: Digital Pathology, 2015 [PDF](http://edwardkim.net/files/edkimspie2015.pdf)
+
+T.Xu, X.Huang, E.Kim, L. Rodney Long, S.Antani, “Multi-test Cervical Cancer Diagnosis with Missing Data Estimation”, In SPIE Medical Imaging 2015: Com- puter Aided Diagnosis, 2015 [PDF](http://edwardkim.net/files/9414-32_Manuscript.pdf).
+
+S.Bouloutian and E.Kim, “Artificial Intelligence Gaming Assistant for Google Glass”, In International Symposium on Visual Computing, ISVC, 2014 [PDF](http://edwardkim.net/files/isvc2014.pdf).
+
+E.Kim, H.Li, and X.Huang, “A Hierarchical Image Clustering Cosegmentation Framework”, In IEEE Computer Society Conf. Computer Vision and Pattern Recognition, CVPR 2012 [PDF](http://edwardkim.net/files/1132.pdf).
+
+T.Shen, X.Huang, H.Li, E.Kim, S.Zhang, and J.Huang, “A 3D Laplacian-Driven Parametric Deformable Model”, In IEEE International Conference on Computer Vision, ICCV 2011 [PDF](http://edwardkim.net/files/ID207FinalReady.pdf).
+
+E.Kim, X.Huang, and J.Heflin, “Finding VIPS - A Visual Image Persons Search Using A Content Property Reasoner and Web Ontology”, In IEEE International Conference on Multimedia & Expo, ICME 2011 [PDF](http://edwardkim.net/files/paper_575.pdf).
+
+E.Kim, S.Antani, X.Huang, L.R.Long, and D.Demner-Fushman, “Using Relevant Regions in Image Search and Query Refinement for Medical CBIR”, In SPIE Med- ical Imaging 2011: Advanced PACS-based Imaging Informatics and Therapeutic Applications, 2011 [PDF](http://edwardkim.net/files/edkim_finalspie2011.pdf).
+
+E.Kim, T.Shen, and X.Huang, “A Parallel Cellular Automata with Label Priors for Interactive Brain Tumor Segmentation”, In The 23RD IEEE International Sym- posium on Computer-Based Medical Systems, CBMS 2010 [PDF](http://edwardkim.net/files/kim-111-cbms2010.pdf).
+
+H.Li, E.Kim, X.Huang, and L.He, “Object Matching with a Locally Affine-Invariant Constraint”, In IEEE Computer Society Conf. Computer Vision and Pattern Recognition, CVPR 2010 [PDF](http://edwardkim.net/files/cvpr10_li_matching.pdf).
+
+E.Kim, X.Huang, G.Tan, L.R.Long, and S.Antani, “A hierarchical SVG image abstraction layer for medical imaging”, In SPIE Medical Imaging 2010: Advanced PACS-based Imaging Informatics and Therapeutic Applications, 2010 [PDF](http://edwardkim.net/files/spie2010_edkim.pdf).
+
+E.Kim, W.Wang, H.Li, and X.Huang, “A Parallel Annealing Method For Automatic Color Cervigram Image Segmentation”, In Medical Image Computing and Computer Assisted Intervention, MICCAI-GRID, 2009 [PDF](http://edwardkim.net/files/edkim_miccaigpu2009.pdf).
+
+
+Journal Publications
+======
+
+T. Xu, H. Zhang, C. Xin, E.Kim, L.R. Long, Z. Xue, S. Antani, X. Huang, “Multi- feature Based Benchmark for Cervical Dysplasia Classification Evaluation”, Pattern Recognition, Sept. 2016.
+
+J. Park, E.Kim, R. Werner, “Inpatient Hospital Charge Variability of U.S. Hospitals”, Journal of Internal Medicine, May 2015 [PDF](http://edwardkim.net/files/jgim2015.pdf).
+
+D.Song, E.Kim, X.Huang, J.Patruno, H.Munoz-Avila, J.Heflin, L. Rodney Long, S.Antani, “Multi-modal Entity Coreference for Cervical Dysplasia Diagnosis”, In IEEE Transactions on Medical Imaging, Vol. 34, No. 1, pp.229-245, Jan. 2015 [PDF](http://edwardkim.net/files/tmi2015.pdf).
+
+E.Kim, X.Huang, G.Tan, “Markup SVG - An Online Content Aware Image Abstraction and Annotation Tool”, In IEEE Transactions on Multimedia, Vol. 13, Issue 5, Oct. 2011 [PDF](http://edwardkim.net/files/markupsvg.pdf).
+
+
+Book Chapters
+======
+E.Kim and X. Huang, “A Data Driven Approach to Cervigram Image Analysis and Classification”, In Color Medical Image Analysis, Lecture Notes in Computational Vision and Biomechanics, Volume 6, 2013. DOI: 10.1007/978-94-007-5389-1 1 [PDF](http://edwardkim.net/files/cmia_bookchapter_final.pdf)
 
 Recent Publications 
 ======
