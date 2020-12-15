@@ -12,7 +12,8 @@ I am currently an Associate Professor of Computer Science at Drexel University. 
 Recent News
 ======
 2020-2021
-:    **October 2020** - Our paper, [Information Graphic Summarization using a Collection of Multimodal Deep Neural Networks](http://edwardkim.net/files/ICPR2020.pdf) was accepted at ICPR 2020.   
+:    **December 2020** - Our paper, [The Interpretable Dictionary in Sparse Coding](https://arxiv.org/abs/2011.11805) was accepted at the Explainable Agency in Artificial Intelligence Workshop, XAI Workshop, AAAI 2021.   
+**October 2020** - Our paper, [Information Graphic Summarization using a Collection of Multimodal Deep Neural Networks](http://edwardkim.net/files/ICPR2020.pdf) was accepted at ICPR 2020.   
 **September 2020** - Our paper, [Regularization and Sparsity for Adversarial Robustness and Stable Attribution
 ](http://edwardkim.net/files/Regularization_ISVC2020.pdf) was accepted for oral presentation at ISVC 2020.   
 **September 2020** - I'll be teaching the grad level CS 613 Machine Learning class at Drexel for the Fall Term.   
